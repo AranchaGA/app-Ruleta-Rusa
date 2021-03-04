@@ -36,7 +36,7 @@ Las acciones a realizar con estos jugadores son:
 3. Abrimos consola pulsando tecla Windows+R y escribimos cmd
 4. Buscamos donde están alojados nuestros documentos, con el comando dir mostrará el contenido, seguido de cd (espacio) el nombre de la ubicación de nuestro archivo, por ejemplo cd Desktop.
 6. Visualizamos nuestros archibo.java y escribimos javac el nombre de nuestro archibo.java
-![Ejemplo imagen](imagenes/ejemplo javac.png)
+![Ejemplo imagen](/imagenes/ejemplojavac.png)
 8. Se nos creara la class, y la ejecutamos escribiendo java (espacio) el nombre de la class y listo!
 9. Estos pasos los repetimos con los tres archibos, dejando appRuletaRusa el ultimo en compilar.
 10. Una vez tenemos los tres archibos.class ejecutamos la app escribiendo java appRuletaRusa
