@@ -45,4 +45,4 @@ Las acciones a realizar con estos jugadores son:
 7. Estos pasos los repetimos con los tres archivos, dejando appRuletaRusa el último en compilar.
 8. Una vez tenemos los tres archivos.class ejecutamos la app escribiendo java appRuletaRusa
 ![Ejemplo imagen](/imagenes/appRuleta.png)
-9. A JUGAR! c:
+9. Y A JUGAR! c:
