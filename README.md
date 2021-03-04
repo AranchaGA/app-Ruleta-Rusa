@@ -41,6 +41,7 @@ Las acciones a realizar con estos jugadores son:
 6. Se nos creara la class, y la ejecutamos escribiendo java (espacio) el nombre de la class y listo!
 
 ![Ejemplo imagen](/imagenes/archivos.png)
+
 7. Estos pasos los repetimos con los tres archivos, dejando appRuletaRusa el ultimo en compilar.
 8. Una vez tenemos los tres archivos.class ejecutamos la app escribiendo java appRuletaRusa
 ![Ejemplo imagen](/imagenes/appRuleta.png)
