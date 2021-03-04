@@ -3,17 +3,17 @@
 
 
 En esta app llamada appRuletaRusa, podremos interactuar con hasta 10 jugadores.
-El juego consiste en disparar dos revolver que hay en juego y ver cuales de los jugadores quedan vivos o muertos.
+El juego consiste en disparar dos revolver que hay en juego y ver cuáles de los jugadores quedan vivos o muertos.
 
 Las acciones a realizar con estos jugadores son:
 - Avanzar cilindro aleatoriamente
 	- Esta acción gira el cilindro del revolver aleatoriamente
 - Dispara
-	- Esta acción hace que los propios jugadores se peguen un tiro con el revolver seleccionado en la opción 1, y te dirá si ha salido bala y ha matado o si ha tenido suerte y esta vivo.
+	- Esta acción hace que los propios jugadores se peguen un tiro con el revolver seleccionado en la opción 1, y te dirá si ha salido bala y ha matado o si ha tenido suerte y está vivo.
 - Pista
-	- Esta acción te dice en que posición se encuentra la bala dentro del cilindro del revolver, y cual es la posición actual a disparar.
+	- Esta acción te dice en que posición se encuentra la bala dentro del cilindro del revolver, y cuál es la posición actual a disparar.
 - Comprobar jugadores vivos
-	- Esta acción mediante un booleano comprueba jugador por jugador cual esta vivo devolviendo true o cual muerto devolviendo false.
+	- Esta acción mediante un booleano comprueba jugador por jugador cuál está vivo devolviendo true o cuál muerto devolviendo false.
 - Fin
 	- Esta acción para el juego y sale de la app.
 	
@@ -38,11 +38,11 @@ Las acciones a realizar con estos jugadores son:
 5. Visualizamos nuestros archivo.java y escribimos javac el nombre de nuestro archivo.java
 ![Ejemplo imagen](/imagenes/ejemplojavac.png)
 
-6. Se nos creara la class, y la ejecutamos escribiendo java (espacio) el nombre de la class y listo!
+6. Se nos creará la class, y la ejecutamos escribiendo java (espacio) el nombre de la class y listo!
 
 ![Ejemplo imagen](/imagenes/archivos.png)
 
-7. Estos pasos los repetimos con los tres archivos, dejando appRuletaRusa el ultimo en compilar.
+7. Estos pasos los repetimos con los tres archivos, dejando appRuletaRusa el último en compilar.
 8. Una vez tenemos los tres archivos.class ejecutamos la app escribiendo java appRuletaRusa
 ![Ejemplo imagen](/imagenes/appRuleta.png)
 9. A JUGAR! c:
